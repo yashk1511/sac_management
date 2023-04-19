@@ -1,1 +1,2 @@
-# sac_management
+# sac-management
+Student Activities Centre Management
